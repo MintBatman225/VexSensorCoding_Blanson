@@ -1,0 +1,20 @@
+Hello Kids! I am giving you a test, this will allow me to assess your skills and build on your programming understanding. I want you to use the code I have provided for you to accomplish some very specific tasks.
+
+
+
+1) Place the Sensor
+2) Wire the Sensor 
+3) Calibrate the Sensor ( Be able to explain to me what Roll, Pitch, and Yaw are)
+4) Program the sensor to be calibrated
+5) Instantiate the Sensor
+6) Get the robot to drive forward (without sensor)
+7) Get the robot to drive forward and turn right 90 degrees without the sensor)
+8) Get the robot to turn right 90 degrees with the sensor
+9) have the robot drive, turn right 90 degrees, drive, turn left 180, and return to start
+
+
+Your goal is to be able to explain to me each line and step. I want to see very clear comments within the code so thay even Coach V can read your code and understand what you have written.
+
+
+Our goal is to explore the different Data angles given by the sensor. Then we want to write a programt o have the robot keep itself at a level angle. If it gets over a certain number the wheels will spin in one direction and vice versa.
+Your goal is to be able to write the auto program by the end of the day.
